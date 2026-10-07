@@ -23,4 +23,4 @@ Este projeto é uma aplicação de consola desenvolvida em **Java** para o geren
 
 1. **Clonar o repositório:**
    ```bash
-   git clone [https://github.com/Pudim741/AED.git](https://github.com/Pudim741/AED.git)
+   git clone https://github.com/Pudim741/AED.git
